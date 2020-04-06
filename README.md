@@ -1,6 +1,8 @@
 # Welcome to FocusFlow!
 Team Focus Management App
 
+**This is currently in development! At this point, this app will not work properly**
+
 FocusFlow allows a manager to create and prioritize activities for their staff. 
 Whether the activitity is associated to development, operations, or even personal activities, FocusFlow will track all
 activities and provide the manager a holistic view of project completion.
@@ -35,7 +37,7 @@ Current Integrations and Features include:
 #### Please report issues if you find them!
 
 ## Known issues/weirdness
-1. 3rd party issue in django-automated-logging. Workaround is to change:
+1. 3rd party issue in **django-automated-logging**. Workaround is to change:
 
     ```python
     # ~python3.7/site-packages/automated_logging/admin.py Line: 17
