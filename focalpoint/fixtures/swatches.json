@@ -1,0 +1,170 @@
+[
+  {
+    "model": "focalpoint.swatch",
+    "pk": 1,
+    "fields": {
+      "name": "UA Blue",
+      "color_code": "#0033CC"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 2,
+    "fields": {
+      "name": "Moderate Blue",
+      "color_code": "#428BCA"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 3,
+    "fields": {
+      "name": "Lime Green",
+      "color_code": "#44AD8E"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 4,
+    "fields": {
+      "name": "Feijoa",
+      "color_code": "#A8D695"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 5,
+    "fields": {
+      "name": "Slight Green",
+      "color_code": "#5CB85C"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 6,
+    "fields": {
+      "name": "Bright Green",
+      "color_code": "#69D100"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 7,
+    "fields": {
+      "name": "Dark Green",
+      "color_code": "#004E00"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 8,
+    "fields": {
+      "name": "Dark Desaturated Blue",
+      "color_code": "#34495E"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 9,
+    "fields": {
+      "name": "Blue Grey",
+      "color_code": "#7F8C8D"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 10,
+    "fields": {
+      "name": "Light Purple",
+      "color_code": "#A295D6"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 11,
+    "fields": {
+      "name": "Dark Purple",
+      "color_code": "#5843AD"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 12,
+    "fields": {
+      "name": "Violet",
+      "color_code": "#8E44AD"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 13,
+    "fields": {
+      "name": "Pale Orange",
+      "color_code": "#FFECDB"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 14,
+    "fields": {
+      "name": "Dark Pink",
+      "color_code": "#AD4363"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 15,
+    "fields": {
+      "name": "Strong Pink",
+      "color_code": "#D10069"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 16,
+    "fields": {
+      "name": "Strong Red",
+      "color_code": "#CC0033"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 17,
+    "fields": {
+      "name": "Pure Red",
+      "color_code": "#FF0000"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 18,
+    "fields": {
+      "name": "Soft Red",
+      "color_code": "#D9534F"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 19,
+    "fields": {
+      "name": "Strong Yellow",
+      "color_code": "#D1D100"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 20,
+    "fields": {
+      "name": "Amber",
+      "color_code": "#F0AD4E"
+    }
+  },
+  {
+    "model": "focalpoint.swatch",
+    "pk": 21,
+    "fields": {
+      "name": "Dark Moderate Orange",
+      "color_code": "#AD8D43"
+    }
+  }
+]

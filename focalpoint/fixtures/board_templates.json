@@ -1,0 +1,92 @@
+[
+  {
+    "model": "focalpoint.boardtemplate",
+    "pk": 1,
+    "fields": {
+      "name": "Simple",
+      "slug": "simple-template",
+      "columns": "Requested,In Progress,Done",
+      "is_favorite": "False"
+    }
+  },
+  {
+    "model": "focalpoint.boardtemplate",
+    "pk": 2,
+    "fields": {
+      "name": "Development",
+      "slug": "development-template",
+      "columns": "Design,Ready to Start,Development,Deployment,Verification,Done",
+      "is_favorite": "False"
+    }
+  },
+  {
+    "model": "focalpoint.boardtemplate",
+    "pk": 3,
+    "fields": {
+      "name": "Development/QA",
+      "slug": "development-qa-template",
+      "columns": "Requested,Design/Analyze,Development,Code Review,Ready For Testing,Testing In Progress,Sign-Off,Deployment,Done",
+      "is_favorite": "False"
+    }
+  },
+  {
+    "model": "focalpoint.boardtemplate",
+    "pk": 4,
+    "fields": {
+      "name": "Level 1 Support",
+      "slug": "level-1-template",
+      "columns": "Requested,Working,Customer Feedback,Pending,Confirmation,Done",
+      "is_favorite": "False"
+    }
+  },
+  {
+    "model": "focalpoint.boardtemplate",
+    "pk": 5,
+    "fields": {
+      "name": "Level N Support",
+      "slug": "level-n-template",
+      "columns": "Requested,Analyze,Fix,Verify,Ready,Done",
+      "is_favorite": "False"
+    }
+  },
+  {
+    "model": "focalpoint.boardtemplate",
+    "pk": 6,
+    "fields": {
+      "name": "Master Process",
+      "slug": "master-process-template",
+      "columns": "Requested,Plan,In Progress,Pending Internal,Pending External,Verify Production,Done",
+      "is_favorite": "False"
+    }
+  },
+  {
+    "model": "focalpoint.boardtemplate",
+    "pk": 7,
+    "fields": {
+      "name": "Priority",
+      "slug": "priority-template",
+      "columns": "None,Critical,High,Medium,Low,Done",
+      "is_favorite": "False"
+    }
+  },
+  {
+    "model": "focalpoint.boardtemplate",
+    "pk": 8,
+    "fields": {
+      "name": "Project Planning",
+      "slug": "project-planning-template",
+      "columns": "Plan,Breakdown,Ready To Start,In Progress,On Hold,Done,Abandoned",
+      "is_favorite": "False"
+    }
+  },
+  {
+    "model": "focalpoint.boardtemplate",
+    "pk": 9,
+    "fields": {
+      "name": "Sysadmin",
+      "slug": "sysadmin-template",
+      "columns": "Requested,Working,Pending,Monitoring,Done",
+      "is_favorite": "False"
+    }
+  }
+]

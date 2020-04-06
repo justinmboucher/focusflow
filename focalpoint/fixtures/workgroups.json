@@ -1,0 +1,22 @@
+[
+  {
+    "model": "focalpoint.workgroup",
+    "pk": 1,
+    "fields": {
+      "name": "Team Management",
+      "slug": "team-management",
+      "description": "Default Managerial Workgroup. This workgroup is only for managers.",
+      "members": ""
+    }
+  },
+  {
+    "model": "focalpoint.workgroup",
+    "pk": 2,
+    "fields": {
+      "name": "Default",
+      "slug": "default",
+      "description": "Default workgroup. This workgroup could be used for general projects that don't fall into a specific category. All projects in this workgroup are visible to everyone.",
+      "members": ""
+    }
+  }
+]
