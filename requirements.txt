@@ -1,6 +1,6 @@
 asgiref==3.2.5
 certifi==2019.11.28
-Django==3.0.3
+Django==3.1.6
 django-automated-logging==5.0.1
 django-taggit==1.2.0
 pytz==2019.3
